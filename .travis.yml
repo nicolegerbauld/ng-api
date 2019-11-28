@@ -1,0 +1,28 @@
+sudo: required
+language: node_js
+cache:
+  yarn: true
+notifications:
+  email: false
+addons:
+  apt:
+    sources:
+      - ubuntu-toolchain-r-test
+    packages:
+      - g++-4.8
+branches:
+  only:
+    - master
+services:
+  - docker
+env:
+  global:
+    - CXX=g++-4.8
+    - NODE_ENV="test"
+    - DEBUG="lorem:*"
+node_js:
+  - "10"
+before_script:
+  - ./dockers/up.sh
+script:
+  - make test-coveralls
