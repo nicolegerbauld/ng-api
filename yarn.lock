@@ -1107,10 +1107,10 @@ buffer@^5.1.0:
     base64-js "^1.0.2"
     ieee754 "^1.1.4"
 
-bunyan-logger-factory@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/bunyan-logger-factory/-/bunyan-logger-factory-1.0.0.tgz#8b9680d42d7f9216a7842ae2e046f2ec4c545f8b"
-  integrity sha512-prsrDPnQWQiHT7UllmKL3KwO1cfUkQ1OfLRuDtOHE24HGDuBOV6onFkxS372MgwQ8tsfB7/LvSLLQ3DV10PjUQ==
+bunyan-logger-factory@^1.0.1:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/bunyan-logger-factory/-/bunyan-logger-factory-1.2.0.tgz#94feae1edc04ee138e024302272110354398c7d1"
+  integrity sha512-x8beqYsuCWRAVlhkbK6E+MjCMdNIfofy9dLcjGzQgkWCSw9uKEAOmiZynYyyw6FdhOvWTrxV/AovpszPzm+0ZA==
   dependencies:
     bunyan "^1.8.12"
     bunyan-syslog "^0.3.2"
@@ -6992,9 +6992,9 @@ xtend@~1.0.3:
   integrity sha1-P12Tc1PM7Y4IU5mlY/2yJUHClgo=
 
 y18n@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.0.tgz#95ef94f85ecc81d007c264e190a120f0a3c8566b"
-  integrity sha512-r9S/ZyXu/Xu9q1tYlpsLIsa3EeLXXk0VwlxqTcFRfg9EhMW+17kbt9G0NrgCmhGb5vT2hyhJZLfDGx+7+5Uj/w==
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.1.tgz#8db2b83c31c5d75099bb890b23f3094891e247d4"
+  integrity sha512-wNcy4NvjMYL8gogWWYAO7ZFWFfHcbdbE57tZO8e4cbpj8tfUcwrwqSl3ad8HxpYWCdXcJUCeKKZS62Av1affwQ==
 
 yallist@^2.1.2:
   version "2.1.2"
