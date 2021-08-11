@@ -1107,10 +1107,10 @@ buffer@^5.1.0:
     base64-js "^1.0.2"
     ieee754 "^1.1.4"
 
-bunyan-logger-factory@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/bunyan-logger-factory/-/bunyan-logger-factory-1.0.0.tgz#8b9680d42d7f9216a7842ae2e046f2ec4c545f8b"
-  integrity sha512-prsrDPnQWQiHT7UllmKL3KwO1cfUkQ1OfLRuDtOHE24HGDuBOV6onFkxS372MgwQ8tsfB7/LvSLLQ3DV10PjUQ==
+bunyan-logger-factory@^1.0.1:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/bunyan-logger-factory/-/bunyan-logger-factory-1.2.0.tgz#94feae1edc04ee138e024302272110354398c7d1"
+  integrity sha512-x8beqYsuCWRAVlhkbK6E+MjCMdNIfofy9dLcjGzQgkWCSw9uKEAOmiZynYyyw6FdhOvWTrxV/AovpszPzm+0ZA==
   dependencies:
     bunyan "^1.8.12"
     bunyan-syslog "^0.3.2"
@@ -5112,9 +5112,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
