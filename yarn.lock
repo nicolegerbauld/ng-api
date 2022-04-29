@@ -838,9 +838,9 @@ async-limiter@~1.0.0:
   integrity sha512-csOlWGAcRFJaI6m+F2WKdnMKr4HhdhFVBk0H/QbJFMCr+uO2kwohwXQPxw/9OCxp05r5ghVBFSyioixx3gfkNQ==
 
 async@^2.0.1, async@^2.1.4, async@^2.1.5, async@^2.4.0, async@^2.4.1, async@^2.6.0, async@^2.6.1:
-  version "2.6.3"
-  resolved "https://registry.yarnpkg.com/async/-/async-2.6.3.tgz#d72625e2344a3656e3a3ad4fa749fa83299d82ff"
-  integrity sha512-zflvls11DCy+dQWzTW2dzuilv8Z5X/pjfmZOWba6TNIVDm+2UDaJmXSOXlasHKfNBs8oo3M0aT50fDEWfKZjXg==
+  version "2.6.4"
+  resolved "https://registry.yarnpkg.com/async/-/async-2.6.4.tgz#706b7ff6084664cd7eae713f6f965433b5504221"
+  integrity sha512-mzo5dfJYwAn29PeiJ0zvwTo04zj8HDJj0Mn8TD7sno7q12prdbnasKJHhkm2c1LgrhlJ0teaea8860oxi51mGA==
   dependencies:
     lodash "^4.17.14"
 
@@ -1107,10 +1107,10 @@ buffer@^5.1.0:
     base64-js "^1.0.2"
     ieee754 "^1.1.4"
 
-bunyan-logger-factory@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/bunyan-logger-factory/-/bunyan-logger-factory-1.0.0.tgz#8b9680d42d7f9216a7842ae2e046f2ec4c545f8b"
-  integrity sha512-prsrDPnQWQiHT7UllmKL3KwO1cfUkQ1OfLRuDtOHE24HGDuBOV6onFkxS372MgwQ8tsfB7/LvSLLQ3DV10PjUQ==
+bunyan-logger-factory@^1.0.1:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/bunyan-logger-factory/-/bunyan-logger-factory-1.2.0.tgz#94feae1edc04ee138e024302272110354398c7d1"
+  integrity sha512-x8beqYsuCWRAVlhkbK6E+MjCMdNIfofy9dLcjGzQgkWCSw9uKEAOmiZynYyyw6FdhOvWTrxV/AovpszPzm+0ZA==
   dependencies:
     bunyan "^1.8.12"
     bunyan-syslog "^0.3.2"
@@ -4082,9 +4082,9 @@ lodash@4.17.14:
   integrity sha512-mmKYbW3GLuJeX+iGP+Y7Gp1AiGHGbXHCOh/jZmrawMmsE7MS4znI3RL2FsjbqOyMayHInjOeykW7PEajUk1/xw==
 
 lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.2.1, lodash@^4.3.0:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 log-driver@^1.2.7:
   version "1.2.7"
