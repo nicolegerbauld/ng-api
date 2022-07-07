@@ -1107,10 +1107,10 @@ buffer@^5.1.0:
     base64-js "^1.0.2"
     ieee754 "^1.1.4"
 
-bunyan-logger-factory@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/bunyan-logger-factory/-/bunyan-logger-factory-1.0.0.tgz#8b9680d42d7f9216a7842ae2e046f2ec4c545f8b"
-  integrity sha512-prsrDPnQWQiHT7UllmKL3KwO1cfUkQ1OfLRuDtOHE24HGDuBOV6onFkxS372MgwQ8tsfB7/LvSLLQ3DV10PjUQ==
+bunyan-logger-factory@^1.0.1:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/bunyan-logger-factory/-/bunyan-logger-factory-1.2.0.tgz#94feae1edc04ee138e024302272110354398c7d1"
+  integrity sha512-x8beqYsuCWRAVlhkbK6E+MjCMdNIfofy9dLcjGzQgkWCSw9uKEAOmiZynYyyw6FdhOvWTrxV/AovpszPzm+0ZA==
   dependencies:
     bunyan "^1.8.12"
     bunyan-syslog "^0.3.2"
@@ -4497,9 +4497,9 @@ mktmpdir@^0.1.1:
     rimraf "~2.2.8"
 
 moment@^2.10.6:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
-  integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
+  integrity sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==
 
 ms@2.0.0:
   version "2.0.0"
